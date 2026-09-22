@@ -92,8 +92,8 @@ This project builds a binary classification system to diagnose Parkinson's disea
 
 ### 1. Clone / Download the repository
 ```bash
-git clone <your-repo-url>
-cd <project-folder>
+git clone https://github.com/Avhishikta/Parkinson-s-Disease-Prediction-Using-Data-Analytics-and-Machine-Learning.git
+cd Parkinson-s-Disease-Prediction-Using-Data-Analytics-and-Machine-Learning
 ```
 
 ### 2. Create a virtual environment (optional but recommended)
@@ -112,7 +112,7 @@ pip install -r requirements.txt
 
 ### 4. Launch Jupyter Notebook
 ```bash
-jupyter notebook "Train Model.ipynb"
+jupyter notebook "AvhishiktaMaiti_Parkinson's Disease Prediction Using Data Analytics and Machine Learning.ipynb"
 ```
 
 ### 5. Run all cells
